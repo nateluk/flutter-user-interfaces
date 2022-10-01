@@ -1,0 +1,4 @@
+#Sat Oct 01 20:49:47 AEST 2022
+base.0=/Users/nathanluk/Dev/projects/flutter/Beginner/learning_layouts/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
