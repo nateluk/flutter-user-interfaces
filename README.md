@@ -1,2 +1,2 @@
-# Learning Flutter Layouts
-Learning the flutter layouts through the flutter.dev tutorial
+# Learning flutter user interfaces
+Learning the flutter user interfaces through the flutter.dev tutorial
